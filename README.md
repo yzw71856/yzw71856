@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-- My name is yanzouwu
-- I came from china
-- I'm learning Korean
-- Nice to meet you
+- Hello everyone, my name is yanzouwu.
+- I am from China and currently studying in Korea.
+- I’m a friendly and easygoing person, and I enjoy learning new things and meeting new people.
+- In my free time, I like listening to music, watching movies, and working out.
+- Nice to meet you all. Thank you!
 
 <!--
 **yzw71856/yzw71856** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
